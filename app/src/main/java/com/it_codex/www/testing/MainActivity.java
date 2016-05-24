@@ -39,7 +39,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
+    }
+    private void playing(){
+        String var = "Mohamed";
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
